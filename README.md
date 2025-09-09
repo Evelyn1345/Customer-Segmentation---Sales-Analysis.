@@ -14,11 +14,7 @@ Visualization: Utilized Python libraries like Matplotlib and Seaborn to create i
 
 Tools and Technologies
 Python: The core programming language used for the analysis.
-
 Pandas: For efficient data manipulation and cleaning.
-
 NumPy: For numerical operations.
-
 Matplotlib: For data visualization.
-
 Jupyter Notebook: The primary environment for executing the analysis and documenting the workflow.
